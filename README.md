@@ -1,4 +1,7 @@
 # Portfolio Template
+## About
+
+<img src="about.png" alt="Profile Photo" width="1000" />
 
 This is a **simple, modern, and fully customizable portfolio website** built using **React.js** and **Bootstrap**.  
 It is designed to help developers and creatives showcase their skills, projects, and personal information in a clean and professional way.
@@ -35,3 +38,4 @@ This portfolio template is created to provide a **clean, professional, and easy-
 ---
 
 Made with ❤️ using React.js and Bootstrap
+
